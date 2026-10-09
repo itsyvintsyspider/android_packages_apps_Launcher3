@@ -515,6 +515,16 @@
         <item name="folderCellWidth">80dp</item>
     </style>
 
+    <style name="Folder4x6Style" parent="@style/FolderStyleDefault">
+        <item name="folderCellHeight">94dp</item>
+        <item name="folderCellWidth">80dp</item>
+    </style>
+
+    <style name="Folder4x7Style" parent="@style/FolderStyleDefault">
+        <item name="folderCellHeight">94dp</item>
+        <item name="folderCellWidth">80dp</item>
+    </style>
+
     <style name="Folder5x5Style" parent="@style/FolderStyleDefault">
         <item name="folderCellHeight">79dp</item>
         <item name="folderCellWidth">61dp</item>
